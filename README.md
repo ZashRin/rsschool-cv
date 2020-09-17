@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ZashRin.github.io/rsschool-cv/cv
