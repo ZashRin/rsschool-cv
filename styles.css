@@ -37,3 +37,6 @@ main {
     text-decoration: none;
     color: blueviolet;
 }
+.ava {
+    grid-column: 2/3;
+}
